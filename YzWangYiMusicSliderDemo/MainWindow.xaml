@@ -1,0 +1,22 @@
+﻿<Window x:Class="YzWangYiMusicSliderDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:YzWangYiMusicSliderDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="674" Width="1025">
+    <Window.Resources>
+        <local:MainWindowModel x:Key="mainViewModel"/>
+        <DataTemplate x:Key="mainItemDataTemplate">
+            <!--542-->
+            <Image Source="{Binding}" Height="192" Width="250" Stretch="Fill"/>
+        </DataTemplate>
+        <DataTemplate x:Key="navItemDataTemplate">
+            <Rectangle Height="2" Width="18"/>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource mainViewModel}" Width="750">
+        <local:YzSlider Images="{Binding images}" mainItemDataTemplate="{StaticResource mainItemDataTemplate}" navItemDataTemplate="{StaticResource navItemDataTemplate}"/>
+    </Grid>
+</Window>

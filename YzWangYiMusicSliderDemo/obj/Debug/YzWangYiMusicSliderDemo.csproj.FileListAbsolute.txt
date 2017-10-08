@@ -1,0 +1,17 @@
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\bin\Debug\YzWangYiMusicSliderDemo.exe.config
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\bin\Debug\YzWangYiMusicSliderDemo.exe
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\bin\Debug\YzWangYiMusicSliderDemo.pdb
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\obj\Debug\MainWindow.g.cs
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\obj\Debug\App.g.cs
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\obj\Debug\YzWangYiMusicSliderDemo_MarkupCompile.cache
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\obj\Debug\YzWangYiMusicSliderDemo_MarkupCompile.lref
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\obj\Debug\MainWindow.baml
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\obj\Debug\YzWangYiMusicSliderDemo.g.resources
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\obj\Debug\YzWangYiMusicSliderDemo.Properties.Resources.resources
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\obj\Debug\YzWangYiMusicSliderDemo.csproj.GenerateResource.Cache
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\obj\Debug\YzWangYiMusicSliderDemo.csproj.CoreCompileInputs.cache
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\obj\Debug\YzWangYiMusicSliderDemo.exe
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\obj\Debug\YzWangYiMusicSliderDemo.pdb
+c:\users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\obj\Debug\Themes\Generic.baml
+C:\Users\yangz\documents\visual studio 2017\Projects\YzWangYiMusicSliderDemo\YzWangYiMusicSliderDemo\obj\Debug\YzWangYiMusicSliderDemo.csprojResolveAssemblyReference.cache
